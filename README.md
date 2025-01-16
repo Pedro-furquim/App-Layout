@@ -1,7 +1,6 @@
-# myapp
+# App Layout
 
-A new Flutter project.
-
+Sistema desenvolvido pelo aluno Pedro Murilo do curso Talento Tech
 ## Getting Started
 
 This project is a starting point for a Flutter application.
